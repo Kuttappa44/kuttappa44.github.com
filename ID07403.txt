@@ -1,0 +1,9 @@
+ID: ID07403
+Date: 6-Jun
+Region: East
+City: New York
+Category: Cookies
+Product: Chocolate Chip
+Qty: 76
+UnitPrice: 1.87
+TotalPrice: 142.12

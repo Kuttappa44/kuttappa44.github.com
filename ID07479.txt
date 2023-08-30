@@ -1,0 +1,9 @@
+ID: ID07479
+Date: 20-Jan
+Region: East
+City: New York
+Category: Crackers
+Product: Whole Wheat
+Qty: 31
+UnitPrice: 3.49
+TotalPrice: 108.19

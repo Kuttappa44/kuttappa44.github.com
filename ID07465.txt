@@ -1,0 +1,9 @@
+ID: ID07465
+Date: 9-Dec
+Region: East
+City: Boston
+Category: Bars
+Product: Banana
+Qty: 30
+UnitPrice: 2.27
+TotalPrice: 68.1

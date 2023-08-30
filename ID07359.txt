@@ -1,0 +1,9 @@
+ID: ID07359
+Date: 25-Jan
+Region: East
+City: New York
+Category: Bars
+Product: Carrot
+Qty: 100
+UnitPrice: 1.77
+TotalPrice: 177.00

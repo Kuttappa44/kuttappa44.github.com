@@ -1,0 +1,9 @@
+ID: ID07518
+Date: 16-May
+Region: East
+City: Boston
+Category: Bars
+Product: Carrot
+Qty: 58
+UnitPrice: 1.77
+TotalPrice: 102.66

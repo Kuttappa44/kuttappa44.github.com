@@ -1,0 +1,9 @@
+ID: ID07500
+Date: 23-Mar
+Region: West
+City: Los Angeles
+Category: Snacks
+Product: Potato Chips
+Qty: 33
+UnitPrice: 1.68
+TotalPrice: 55.44

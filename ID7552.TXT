@@ -1,0 +1,9 @@
+ID: ID07552
+Date: 26-Aug
+Region: West
+City: San Diego
+Category: Bars
+Product: Carrot
+Qty: 41
+UnitPrice: 1.77
+TotalPrice: 72.57

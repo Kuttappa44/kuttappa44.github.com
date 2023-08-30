@@ -1,0 +1,9 @@
+ID: ID07407
+Date: 18-Jun
+Region: East
+City: Boston
+Category: Crackers
+Product: Whole Wheat
+Qty: 38
+UnitPrice: 3.49
+TotalPrice: 132.62

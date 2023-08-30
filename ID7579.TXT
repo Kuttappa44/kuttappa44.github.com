@@ -1,0 +1,9 @@
+ID: ID07579
+Date: 15-Nov
+Region: East
+City: New York
+Category: Cookies
+Product: Arrowroot
+Qty: 146
+UnitPrice: 2.18
+TotalPrice: 318.28

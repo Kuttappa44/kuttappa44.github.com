@@ -1,0 +1,9 @@
+ID: ID07483
+Date: 1-Feb
+Region: East
+City: Boston
+Category: Snacks
+Product: Potato Chips
+Qty: 24
+UnitPrice: 1.68
+TotalPrice: 40.32

@@ -1,0 +1,9 @@
+ID: ID07510
+Date: 22-Apr
+Region: West
+City: San Diego
+Category: Cookies
+Product: Chocolate Chip
+Qty: 67
+UnitPrice: 1.87
+TotalPrice: 125.29

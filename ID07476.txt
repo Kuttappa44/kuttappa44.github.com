@@ -1,0 +1,9 @@
+ID: ID07476
+Date: 11-Jan
+Region: West
+City: Los Angeles
+Category: Bars
+Product: Bran
+Qty: 77
+UnitPrice: 1.87
+TotalPrice: 143.99

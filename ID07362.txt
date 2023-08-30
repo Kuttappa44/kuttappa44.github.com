@@ -1,0 +1,10 @@
+ID: ID07362
+Date: 3-Feb
+Region: East
+City: Boston
+Category: Cookies
+Product: Chocolate Chip
+Qty: 31
+UnitPrice: 1.87
+TotalPrice: 57.97
+

@@ -1,0 +1,9 @@
+ID: ID07366
+Date: 15-Feb
+Region: East
+City: New York
+Category: Snacks
+Product: Potato Chips
+Qty: 27
+UnitPrice: 1.35
+TotalPrice: 36.45

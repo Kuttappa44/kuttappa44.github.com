@@ -1,0 +1,9 @@
+ID: ID07511
+Date: 25-Apr
+Region: East
+City: Boston
+Category: Bars
+Product: Bran
+Qty: 27
+UnitPrice: 1.87
+TotalPrice: 50.49
