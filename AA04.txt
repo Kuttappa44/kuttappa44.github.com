@@ -1,0 +1,8 @@
+Date: 07 Jan 2020
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Lifting
+Days Lost: 0
+Plant: Ohio
+Report Type: Near Miss

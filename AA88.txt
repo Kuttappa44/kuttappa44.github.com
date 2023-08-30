@@ -1,0 +1,8 @@
+Date: 23-May-20
+Injury Location: Neck
+Gender: Male
+Age Group: 50+
+Incident Type: Lifting
+Days Lost: 0
+Plant: Montana
+Report Type: Near Miss

@@ -1,0 +1,8 @@
+Date: 23-Dec-20
+Injury Location: Back
+Gender: Male
+Age Group: 25-34
+Incident Type: Fall
+Days Lost: 2.5
+Plant: Illinois
+Report Type: Lost Time

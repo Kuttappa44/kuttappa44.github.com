@@ -1,0 +1,8 @@
+Date: 3-Jun-22
+Injury Location: Back
+Gender: Male
+Age Group: 50+
+Incident Type: Lifting
+Days Lost: 0
+Plant: Alabama
+Report Type: Near Miss

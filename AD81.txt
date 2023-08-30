@@ -1,0 +1,8 @@
+Date: 1-Oct-21
+Injury Location: Multiple
+Gender: Female
+Age Group: 25-34
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Montana
+Report Type: Near Miss

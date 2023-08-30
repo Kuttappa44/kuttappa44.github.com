@@ -1,0 +1,8 @@
+Date: 1-Oct-21
+Injury Location: Trunk
+Gender: Male
+Age Group: 25-34
+Incident Type: Falling object
+Days Lost: 0
+Plant: Alabama
+Report Type: Medical Claim

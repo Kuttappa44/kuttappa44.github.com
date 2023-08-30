@@ -1,0 +1,8 @@
+Date: 17-Sep-21
+Injury Location: Legs
+Gender: Male
+Age Group: 50+
+Incident Type: Crush & Pinch
+Days Lost: 4
+Plant: Georgia
+Report Type: Lost Time

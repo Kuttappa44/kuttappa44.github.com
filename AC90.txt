@@ -1,0 +1,8 @@
+Date: 4-May-21
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Fall
+Days Lost: 3
+Plant: Alabama
+Report Type: Lost Time

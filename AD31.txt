@@ -1,0 +1,8 @@
+Date: 28-Jun-21
+Injury Location: Head
+Gender: Male
+Age Group: 35-49
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Ohio
+Report Type: First Aid

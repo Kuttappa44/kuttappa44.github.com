@@ -1,0 +1,8 @@
+Date: 27-Oct-20
+Injury Location: Multiple
+Gender: Male
+Age Group: 25-34
+Incident Type: Lifting
+Days Lost: 3
+Plant: Texas
+Report Type: Lost Time

@@ -1,9 +1,0 @@
-ID: ID07380
-Date: 29-Mar
-Region: East
-City: Boston
-Category: Cookies
-Product: Oatmeal Raisin
-Qty: 193
-UnitPrice: 2.84
-TotalPrice: 548.12

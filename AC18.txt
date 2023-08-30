@@ -1,0 +1,8 @@
+Date: 27-Dec-20
+Injury Location: Eye
+Gender: Male
+Age Group: 25-34
+Incident Type: Falling object
+Days Lost: 0
+Plant: Georgia
+Report Type: Medical Claim

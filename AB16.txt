@@ -1,0 +1,8 @@
+Date: 11-Jul-20
+Injury Location: Arms
+Gender: Male
+Age Group: 18-24
+Incident Type: Falling object
+Days Lost: 1
+Plant: Alabama
+Report Type: Lost Time

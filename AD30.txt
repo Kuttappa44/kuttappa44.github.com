@@ -1,0 +1,8 @@
+Date: 27-Jun-21
+Injury Location: Eye
+Gender: Male
+Age Group: 25-34
+Incident Type: Falling object
+Days Lost: 4.5
+Plant: Georgia
+Report Type: Lost Time

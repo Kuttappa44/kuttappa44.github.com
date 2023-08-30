@@ -1,9 +1,0 @@
-ID: ID07515
-Date: 7-May
-Region: East
-City: New York
-Category: Bars
-Product: Bran
-Qty: 47
-UnitPrice: 1.87
-TotalPrice: 87.89

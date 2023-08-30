@@ -1,0 +1,8 @@
+Date: 17-Mar-20
+Injury Location: Abdomen
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 4.5
+Plant: Iowa
+Report Type: Lost Time

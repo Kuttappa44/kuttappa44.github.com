@@ -1,0 +1,9 @@
+Date: 6-Dec-21
+Injury Location: Head
+Gender: Male
+Age Group: 25-34
+Incident Type: Lifting
+Days Lost: 0
+Plant: California
+Report Type: Medical Claim
+

@@ -1,9 +1,0 @@
-ID: ID07375
-Date: 14-Mar
-Region: West
-City: Los Angeles
-Category: Cookies
-Product: Chocolate Chip
-Qty: 86
-UnitPrice: 1.87
-TotalPrice: 160.82

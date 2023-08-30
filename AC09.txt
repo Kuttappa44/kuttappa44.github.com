@@ -1,0 +1,8 @@
+Date: 11-Dec-20
+Injury Location: Head
+Gender: Male
+Age Group: 18-24
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Florida
+Report Type: First Aid

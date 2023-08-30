@@ -1,0 +1,8 @@
+Date: 9-Feb-20
+Injury Location: Head
+Gender: Male
+Age Group: 25-34
+Incident Type: Equipment
+Days Lost: 4.5
+Plant: Florida
+Report Type: Lost Time

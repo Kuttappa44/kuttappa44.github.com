@@ -1,0 +1,8 @@
+Date: 13-Jul-20
+Injury Location: N/A
+Gender: Male
+Age Group: 50+
+Incident Type: Equipment
+Days Lost: 3.5
+Plant: Ohio
+Report Type: Lost Time

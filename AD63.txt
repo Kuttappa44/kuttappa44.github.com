@@ -1,0 +1,8 @@
+Date: 24-Aug-21
+Injury Location: Head
+Gender: Female
+Age Group: 35-49
+Incident Type: Burn
+Days Lost: 0
+Plant: Texas
+Report Type: Near Miss

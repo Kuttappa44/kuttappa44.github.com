@@ -1,0 +1,8 @@
+Date: 25-Jun-22
+Injury Location: Feet
+Gender: Male
+Age Group: 50+
+Incident Type: Burn
+Days Lost: 0
+Plant: Iowa
+Report Type: Medical Claim

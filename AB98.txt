@@ -1,0 +1,8 @@
+Date: 1-Dec-20
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 3.5
+Plant: Ohio
+Report Type: Lost Time

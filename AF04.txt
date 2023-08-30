@@ -1,0 +1,8 @@
+Date: 27-May-22
+Injury Location: Eye
+Gender: Male
+Age Group: 18-24
+Incident Type: Equipment
+Days Lost: 0
+Plant: Georgia
+Report Type: First Aid

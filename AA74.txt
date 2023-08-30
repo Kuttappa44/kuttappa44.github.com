@@ -1,0 +1,8 @@
+Date: 7-May-20
+Injury Location: Neck
+Gender: Male
+Age Group: 18-24
+Incident Type: Lifting
+Days Lost: 4
+Plant: Florida
+Report Type: Lost Time

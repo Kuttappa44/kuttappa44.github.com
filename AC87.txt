@@ -1,0 +1,8 @@
+Date: 24-Apr-21
+Injury Location: Hands
+Gender: Male
+Age Group: 18-24
+Incident Type: Cut
+Days Lost: 3
+Plant: Florida
+Report Type: Lost Time

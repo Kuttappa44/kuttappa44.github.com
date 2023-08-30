@@ -1,0 +1,8 @@
+Date: 25-Jun-21
+Injury Location: Abdomen
+Gender: Male
+Age Group: 50+
+Incident Type: Burn
+Days Lost: 0
+Plant: Alabama
+Report Type: Near Miss

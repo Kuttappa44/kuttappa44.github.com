@@ -1,0 +1,8 @@
+Date: 24-Oct-20
+Injury Location: Hands
+Gender: Male
+Age Group: 50+
+Incident Type: Equipment
+Days Lost: 0
+Plant: Alabama
+Report Type: Medical Claim

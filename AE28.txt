@@ -1,0 +1,8 @@
+Date: 4-Jan-22
+Injury Location: Hands
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Iowa
+Report Type: Near Miss

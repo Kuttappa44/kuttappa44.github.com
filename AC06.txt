@@ -1,0 +1,8 @@
+Date: 8-Dec-20
+Injury Location: Feet
+Gender: Male
+Age Group: 50+
+Incident Type: Equipment
+Days Lost: 0
+Plant: Georgia
+Report Type: Medical Claim

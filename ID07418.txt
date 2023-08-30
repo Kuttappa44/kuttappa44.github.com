@@ -1,9 +1,0 @@
-ID: ID07418
-Date: 21-Jul
-Region: East
-City: New York
-Category: Cookies
-Product: Oatmeal Raisin
-Qty: 56
-UnitPrice: 2.84
-TotalPrice: 159.04

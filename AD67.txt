@@ -1,0 +1,8 @@
+Date: 3-Sep-21
+Injury Location: Eye
+Gender: Male
+Age Group: 25-34
+Incident Type: Cut
+Days Lost: 0
+Plant: Georgia
+Report Type: Medical Claim

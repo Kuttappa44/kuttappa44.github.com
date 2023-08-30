@@ -1,0 +1,8 @@
+Date: 26-Jan-21
+Injury Location: Trunk
+Gender: Male
+Age Group: 35-49
+Incident Type: Burn
+Days Lost: 0
+Plant: Texas
+Report Type: Medical Claim

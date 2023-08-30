@@ -1,0 +1,8 @@
+Date: 4-Dec-20
+Injury Location: Arms
+Gender: Female
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 1
+Plant: Georgia
+Report Type: Lost Time

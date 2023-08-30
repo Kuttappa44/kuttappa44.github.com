@@ -1,9 +1,0 @@
-ID: ID07484
-Date: 4-Feb
-Region: West
-City: Los Angeles
-Category: Cookies
-Product: Arrowroot
-Qty: 58
-UnitPrice: 2.18
-TotalPrice: 126.44

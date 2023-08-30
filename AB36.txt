@@ -1,0 +1,8 @@
+Date: 9-Aug-20
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Equipment
+Days Lost: 0
+Plant: Georgia
+Report Type: First Aid

@@ -1,0 +1,8 @@
+Date: 12-Apr-22
+Injury Location: Abdomen
+Gender: Male
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 1.5
+Plant: California
+Report Type: Lost Time

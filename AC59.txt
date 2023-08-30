@@ -1,0 +1,8 @@
+Date: 11-Mar-21
+Injury Location: Legs
+Gender: Female
+Age Group: 35-49
+Incident Type: Equipment
+Days Lost: 0
+Plant: California
+Report Type: First Aid

@@ -1,0 +1,8 @@
+Date: 19-Jul-21
+Injury Location: Feet
+Gender: Male
+Age Group: 50+
+Incident Type: Falling object
+Days Lost: 0
+Plant: Montana
+Report Type: Near Miss

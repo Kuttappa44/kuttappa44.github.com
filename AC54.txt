@@ -1,0 +1,8 @@
+Date: 1-Mar-21
+Injury Location: Arms
+Gender: Male
+Age Group: 50+
+Incident Type: Lifting
+Days Lost: 0
+Plant: Illinois
+Report Type: Near Miss

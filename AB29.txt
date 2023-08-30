@@ -1,0 +1,8 @@
+Date: 30-Jul-20
+Injury Location: Abdomen
+Gender: Male
+Age Group: 35-49
+Incident Type: Lifting
+Days Lost: 3
+Plant: Illinois
+Report Type: Lost Time

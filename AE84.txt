@@ -1,0 +1,8 @@
+Date: 8-Apr-22
+Injury Location: Arms
+Gender: Male
+Age Group: 18-24
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Ohio
+Report Type: Medical Claim

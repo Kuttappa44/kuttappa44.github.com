@@ -1,0 +1,8 @@
+Date: 27-Dec-20
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 0
+Plant: Illinois
+Report Type: First Aid

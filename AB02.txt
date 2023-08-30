@@ -1,0 +1,8 @@
+Date: 15-Jun-20
+Injury Location: Multiple
+Gender: Male
+Age Group: 18-24
+Incident Type: Burn
+Days Lost: 0
+Plant: Illinois
+Report Type: First Aid

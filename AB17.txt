@@ -1,0 +1,8 @@
+Date: 12-Jul-20
+Injury Location: Trunk
+Gender: Male
+Age Group: 25-34
+Incident Type: Cut
+Days Lost: 4
+Plant: Iowa
+Report Type: Lost Time

@@ -1,0 +1,8 @@
+Date: 27-Oct-20
+Injury Location: Neck
+Gender: Male
+Age Group: 35-49
+Incident Type: Equipment
+Days Lost: 0
+Plant: Ohio
+Report Type: First Aid

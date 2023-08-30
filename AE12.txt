@@ -1,0 +1,8 @@
+Date: 26-Nov-21
+Injury Location: Hands
+Gender: Male
+Age Group: 18-24
+Incident Type: Cut
+Days Lost: 0
+Plant: Ohio
+Report Type: Near Miss

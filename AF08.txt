@@ -1,0 +1,8 @@
+Date: 3-Jun-22
+Injury Location: Trunk
+Gender: Male
+Age Group: 18-24
+Incident Type: Equipment
+Days Lost: 0
+Plant: California
+Report Type: First Aid

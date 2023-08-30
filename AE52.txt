@@ -1,0 +1,8 @@
+Date: 9-Feb-22
+Injury Location: Feet
+Gender: Male
+Age Group: 50+
+Incident Type: Cut
+Days Lost: 4
+Plant: Texas
+Report Type: Lost Time

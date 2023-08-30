@@ -1,0 +1,8 @@
+Date: 29-May-20
+Injury Location: Arms
+Gender: Male
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 0.5
+Plant: California
+Report Type: Lost Time

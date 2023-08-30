@@ -1,9 +1,0 @@
-ID: ID07477
-Date: 14-Jan
-Region: West
-City: Los Angeles
-Category: Cookies
-Product: Oatmeal Raisin
-Qty: 80
-UnitPrice: 2.84
-TotalPrice: 227.2

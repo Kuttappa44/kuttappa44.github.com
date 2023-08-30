@@ -1,9 +1,0 @@
-ID: ID07397
-Date: 19-May
-Region: East
-City: New York
-Category: Snacks
-Product: Potato Chips
-Qty: 49
-UnitPrice: 1.68
-TotalPrice: 82.32

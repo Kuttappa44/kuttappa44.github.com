@@ -1,0 +1,8 @@
+Date: 31-Dec-20
+Injury Location: Abdomen
+Gender: Male
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 2
+Plant: Florida
+Report Type: Lost Time

@@ -1,0 +1,8 @@
+Date: 17-Oct-20
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Vehicle
+Days Lost: 0
+Plant: California
+Report Type: Near Miss

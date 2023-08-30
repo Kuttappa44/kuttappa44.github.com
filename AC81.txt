@@ -1,0 +1,8 @@
+Date: 15-Apr-21
+Injury Location: Eye
+Gender: Female
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 0
+Plant: Illinois
+Report Type: Near Miss

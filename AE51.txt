@@ -1,0 +1,8 @@
+Date: 8-Feb-22
+Injury Location: Back
+Gender: Male
+Age Group: 35-49
+Incident Type: Cut
+Days Lost: 4
+Plant: Georgia
+Report Type: Lost Time

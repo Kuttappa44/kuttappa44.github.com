@@ -1,0 +1,8 @@
+Date: 25-Jan-21
+Injury Location: Head
+Gender: Male
+Age Group: 50+
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Iowa
+Report Type: Medical Claim

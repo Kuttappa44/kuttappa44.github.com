@@ -1,0 +1,8 @@
+Date: 29-Jun-21
+Injury Location: Arms
+Gender: Male
+Age Group: 25-34
+Incident Type: Lifting
+Days Lost: 0
+Plant: Iowa
+Report Type: Near Miss

@@ -1,0 +1,8 @@
+Date: 7-Aug-21
+Injury Location: Neck
+Gender: Male
+Age Group: 25-34
+Incident Type: Falling object
+Days Lost: 3
+Plant: Ohio
+Report Type: Lost Time

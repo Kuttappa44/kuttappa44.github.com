@@ -1,0 +1,8 @@
+Date: 12-Jul-20
+Injury Location: Eye
+Gender: Male
+Age Group: 18-24
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Montana
+Report Type: First Aid

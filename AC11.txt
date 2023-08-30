@@ -1,0 +1,8 @@
+Date: 16-Dec-20
+Injury Location: Feet
+Gender: Male
+Age Group: 35-49
+Incident Type: Burn
+Days Lost: 3
+Plant: Montana
+Report Type: Lost Time

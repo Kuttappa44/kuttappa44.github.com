@@ -1,0 +1,8 @@
+Date: 30-Jun-20
+Injury Location: Neck
+Gender: Male
+Age Group: 18-24
+Incident Type: Slip/trip
+Days Lost: 5
+Plant: Alabama
+Report Type: Lost Time

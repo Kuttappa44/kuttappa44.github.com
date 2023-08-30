@@ -1,0 +1,8 @@
+Date: 3-Jun-21
+Injury Location: Multiple
+Gender: Male
+Age Group: 50+
+Incident Type: Equipment
+Days Lost: 4.5
+Plant: Texas
+Report Type: Lost Time

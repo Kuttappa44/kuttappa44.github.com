@@ -1,0 +1,8 @@
+Date: 16-Jan-22
+Injury Location: Neck
+Gender: Male
+Age Group: 50+
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Montana
+Report Type: Near Miss

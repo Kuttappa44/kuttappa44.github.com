@@ -1,0 +1,8 @@
+Date: 2-Feb-21
+Injury Location: N/A
+Gender: Male
+Age Group: 50+
+Incident Type: Fall
+Days Lost: 0.5
+Plant: Illinois
+Report Type: Lost Time

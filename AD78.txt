@@ -1,0 +1,8 @@
+Date: 28-Sep-21
+Injury Location: Hands
+Gender: Female
+Age Group: 50+
+Incident Type: Cut
+Days Lost: 0
+Plant: California
+Report Type: First Aid

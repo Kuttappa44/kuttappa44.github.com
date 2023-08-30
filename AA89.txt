@@ -1,0 +1,8 @@
+Date: 25-May-20
+Injury Location: Head
+Gender: Male
+Age Group: 25-34
+Incident Type: Crush & Pinch
+Days Lost: 0.5
+Plant: Florida
+Report Type: Lost Time

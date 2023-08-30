@@ -1,0 +1,8 @@
+Date: 2-Feb-21
+Injury Location: Back
+Gender: Female
+Age Group: 50+
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Alabama
+Report Type: Near Miss

@@ -1,0 +1,8 @@
+Date: 2-Mar-21
+Injury Location: Abdomen
+Gender: Male
+Age Group: 18-24
+Incident Type: Equipment
+Days Lost: 0
+Plant: Texas
+Report Type: Near Miss

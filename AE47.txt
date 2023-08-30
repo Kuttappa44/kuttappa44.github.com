@@ -1,0 +1,8 @@
+Date: 2-Feb-22
+Injury Location: N/A
+Gender: Male
+Age Group: 25-34
+Incident Type: Falling object
+Days Lost: 1.5
+Plant: Alabama
+Report Type: Lost Time

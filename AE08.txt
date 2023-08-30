@@ -1,0 +1,8 @@
+Date: 21-Nov-21
+Injury Location: Feet
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Alabama
+Report Type: Medical Claim

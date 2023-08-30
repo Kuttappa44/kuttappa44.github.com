@@ -1,9 +1,0 @@
-ID: ID07367
-Date: 18-Feb
-Region: East
-City: Boston
-Category: Cookies
-Product: Arrowroot
-Qty: 43
-UnitPrice: 2.18
-TotalPrice: 93.74

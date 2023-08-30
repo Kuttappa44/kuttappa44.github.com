@@ -1,0 +1,8 @@
+Date: 24-Feb-22
+Injury Location: Arms
+Gender: Male
+Age Group: 35-49
+Incident Type: Fall
+Days Lost: 4.5
+Plant: California
+Report Type: Lost Time

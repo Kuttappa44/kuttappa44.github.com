@@ -1,0 +1,8 @@
+Date: 6-Sep-21
+Injury Location: Legs
+Gender: Female
+Age Group: 50+
+Incident Type: Falling object
+Days Lost: 0
+Plant: Texas
+Report Type: Medical Claim

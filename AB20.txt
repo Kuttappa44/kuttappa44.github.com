@@ -1,0 +1,8 @@
+Date: 14-Jul-20
+Injury Location: Abdomen
+Gender: Male
+Age Group: 18-24
+Incident Type: Crush & Pinch
+Days Lost: 0
+Plant: Montana
+Report Type: Near Miss

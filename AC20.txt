@@ -1,0 +1,8 @@
+Date: 30-Dec-20
+Injury Location: Trunk
+Gender: Male
+Age Group: 50+
+Incident Type: Burn
+Days Lost: 0
+Plant: Ohio
+Report Type: Medical Claim

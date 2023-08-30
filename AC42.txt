@@ -1,0 +1,8 @@
+Date: 11-Feb-21
+Injury Location: Legs
+Gender: Male
+Age Group: 35-49
+Incident Type: Cut
+Days Lost: 0
+Plant: Iowa
+Report Type: Medical Claim

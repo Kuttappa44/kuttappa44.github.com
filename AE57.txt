@@ -1,0 +1,8 @@
+Date: 14-Feb-22
+Injury Location: Multiple
+Gender: Male
+Age Group: 50+
+Incident Type: Falling object
+Days Lost: 4.5
+Plant: Montana
+Report Type: Lost Time

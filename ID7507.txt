@@ -1,9 +1,0 @@
-ID: ID07507
-Date: 13-Apr
-Region: West
-City: Los Angeles
-Category: Crackers
-Product: Whole Wheat
-Qty: 21
-UnitPrice: 3.49
-TotalPrice: 73.29

@@ -1,9 +1,0 @@
-ID: ID07419
-Date: 24-Jul
-Region: West
-City: San Diego
-Category: Bars
-Product: Bran
-Qty: 51
-UnitPrice: 1.87
-TotalPrice: 95.37

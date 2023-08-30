@@ -1,0 +1,8 @@
+Date: 23-Aug-20
+Injury Location: Hands
+Gender: Female
+Age Group: 35-49
+Incident Type: Cut
+Days Lost: 0
+Plant: Illinois
+Report Type: Near Miss

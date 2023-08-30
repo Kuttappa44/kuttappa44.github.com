@@ -1,0 +1,8 @@
+Date: 8-Jan-21
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Lifting
+Days Lost: 4
+Plant: Texas
+Report Type: Lost Time

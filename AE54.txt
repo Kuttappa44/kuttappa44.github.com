@@ -1,0 +1,8 @@
+Date: 10-Feb-22
+Injury Location: Multiple
+Gender: Male
+Age Group: 25-34
+Incident Type: Lifting
+Days Lost: 0
+Plant: Iowa
+Report Type: Medical Claim

@@ -1,0 +1,8 @@
+Date: 22-Mar-21
+Injury Location: Legs
+Gender: Male
+Age Group: 50+
+Incident Type: Burn
+Days Lost: 0
+Plant: Texas
+Report Type: Medical Claim

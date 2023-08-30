@@ -1,0 +1,8 @@
+Date: 10-Nov-21
+Injury Location: Feet
+Gender: Male
+Age Group: 50+
+Incident Type: Equipment
+Days Lost: 4
+Plant: California
+Report Type: Lost Time

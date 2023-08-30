@@ -1,9 +1,0 @@
-ID: ID07460
-Date: 24-Nov
-Region: West
-City: Los Angeles
-Category: Bars
-Product: Carrot
-Qty: 30
-UnitPrice: 1.77
-TotalPrice: 53.1

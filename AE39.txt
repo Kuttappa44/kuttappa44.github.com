@@ -1,0 +1,8 @@
+Date: 20-Jan-22
+Injury Location: Multiple
+Gender: Male
+Age Group: 18-24
+Incident Type: Equipment
+Days Lost: 0
+Plant: Iowa
+Report Type: First Aid

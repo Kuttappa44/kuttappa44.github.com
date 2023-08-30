@@ -1,0 +1,8 @@
+Date: 25-Dec-20
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Fall
+Days Lost: 0
+Plant: Alabama
+Report Type: Near Miss

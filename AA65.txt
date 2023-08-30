@@ -1,0 +1,8 @@
+Date: 21-Apr-20
+Injury Location: Head
+Gender: Female
+Age Group: 18-24
+Incident Type: Vehicle
+Days Lost: 4
+Plant: Texas
+Report Type: Lost Time

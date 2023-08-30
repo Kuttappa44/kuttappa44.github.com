@@ -1,0 +1,8 @@
+Date: 21-Aug-20
+Injury Location: Trunk
+Gender: Male
+Age Group: 50+
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Iowa
+Report Type: First Aid

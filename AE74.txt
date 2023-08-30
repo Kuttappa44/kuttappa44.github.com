@@ -1,0 +1,8 @@
+Date: 26-Mar-22
+Injury Location: Eye
+Gender: Male
+Age Group: 50+
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Texas
+Report Type: Medical Claim

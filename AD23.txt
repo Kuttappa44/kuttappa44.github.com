@@ -1,0 +1,8 @@
+Date: 18-Jun-21
+Injury Location: Multiple
+Gender: Male
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 0
+Plant: Montana
+Report Type: Medical Claim

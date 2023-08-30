@@ -1,0 +1,8 @@
+Date: 15-Nov-21
+Injury Location: Arms
+Gender: Male
+Age Group: 50+
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Georgia
+Report Type: Medical Claim

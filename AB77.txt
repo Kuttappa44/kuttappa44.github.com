@@ -1,0 +1,8 @@
+Date: 22-Oct-20
+Injury Location: Hands
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 2
+Plant: Iowa
+Report Type: Lost Time

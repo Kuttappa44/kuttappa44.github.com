@@ -1,0 +1,8 @@
+Date: 22-Dec-21
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Lifting
+Days Lost: 0
+Plant: Florida
+Report Type: Near Miss

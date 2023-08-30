@@ -1,0 +1,8 @@
+Date: 17-Mar-21
+Injury Location: Feet
+Gender: Female
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 5
+Plant: Iowa
+Report Type: Lost Time

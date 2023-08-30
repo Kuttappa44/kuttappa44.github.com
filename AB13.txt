@@ -1,0 +1,8 @@
+Date: 6-Jul-20
+Injury Location: Neck
+Gender: Male
+Age Group: 18-24
+Incident Type: Burn
+Days Lost: 2
+Plant: Illinois
+Report Type: Lost Time

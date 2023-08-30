@@ -1,0 +1,8 @@
+Date: 25-Mar-22
+Injury Location: N/A
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 0.5
+Plant: Ohio
+Report Type: Lost Time

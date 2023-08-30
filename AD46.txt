@@ -1,0 +1,8 @@
+Date: 25-Jul-21
+Injury Location: Head
+Gender: Male
+Age Group: 25-34
+Incident Type: Lifting
+Days Lost: 1
+Plant: Ohio
+Report Type: Lost Time

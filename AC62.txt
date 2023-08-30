@@ -1,0 +1,8 @@
+Date: 14-Mar-21
+Injury Location: Neck
+Gender: Male
+Age Group: 25-34
+Incident Type: Fall
+Days Lost: 0
+Plant: Georgia
+Report Type: Near Miss

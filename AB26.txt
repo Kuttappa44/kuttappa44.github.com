@@ -1,0 +1,8 @@
+Date: 27-Jul-20
+Injury Location: Head
+Gender: Male
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 0
+Plant: Montana
+Report Type: Medical Claim

@@ -1,0 +1,8 @@
+Date: 2-Aug-21
+Injury Location: Arms
+Gender: Male
+Age Group: 25-34
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Montana
+Report Type: Medical Claim

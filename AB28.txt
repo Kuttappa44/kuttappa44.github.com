@@ -1,0 +1,8 @@
+Date: 28-Jul-20
+Injury Location: N/A
+Gender: Male
+Age Group: 50+
+Incident Type: Equipment
+Days Lost: 2
+Plant: California
+Report Type: Lost Time

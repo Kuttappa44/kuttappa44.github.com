@@ -1,9 +1,0 @@
-ID: ID07409
-Date: 24-Jun
-Region: West
-City: Los Angeles
-Category: Snacks
-Product: Potato Chips
-Qty: 28
-UnitPrice: 1.68
-TotalPrice: 47.04

@@ -1,0 +1,8 @@
+Date: 16-Jan-21
+Injury Location: Back
+Gender: Male
+Age Group: 25-34
+Incident Type: Crush & Pinch
+Days Lost: 2
+Plant: Alabama
+Report Type: Lost Time

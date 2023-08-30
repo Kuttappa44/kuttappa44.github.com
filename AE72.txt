@@ -1,0 +1,8 @@
+Date: 22-Mar-22
+Injury Location: Head
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: California
+Report Type: Medical Claim

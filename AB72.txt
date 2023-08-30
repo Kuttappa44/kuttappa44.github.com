@@ -1,0 +1,8 @@
+Date: 14-Oct-20
+Injury Location: Abdomen
+Gender: Male
+Age Group: 25-34
+Incident Type: Lifting
+Days Lost: 0
+Plant: Georgia
+Report Type: First Aid

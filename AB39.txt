@@ -1,0 +1,8 @@
+Date: 12-Aug-20
+Injury Location: Arms
+Gender: Male
+Age Group: 50+
+Incident Type: Burn
+Days Lost: 0
+Plant: California
+Report Type: Medical Claim

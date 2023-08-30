@@ -1,0 +1,8 @@
+Date: 20-Feb-20
+Injury Location: Back
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: California
+Report Type: Near Miss

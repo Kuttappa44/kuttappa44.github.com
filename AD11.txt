@@ -1,0 +1,8 @@
+Date: 3-Jun-21
+Injury Location: Abdomen
+Gender: Female
+Age Group: 18-24
+Incident Type: Vehicle
+Days Lost: 3
+Plant: California
+Report Type: Lost Time

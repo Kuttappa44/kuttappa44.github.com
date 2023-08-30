@@ -1,0 +1,8 @@
+Date: 30-Dec-20
+Injury Location: Trunk
+Gender: Male
+Age Group: 18-24
+Incident Type: Fall
+Days Lost: 0
+Plant: Montana
+Report Type: Medical Claim

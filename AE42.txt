@@ -1,0 +1,8 @@
+Date: 27-Jan-22
+Injury Location: Hands
+Gender: Male
+Age Group: 25-34
+Incident Type: Falling object
+Days Lost: 0
+Plant: Ohio
+Report Type: Medical Claim

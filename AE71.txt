@@ -1,0 +1,8 @@
+Date: 22-Mar-22
+Injury Location: Head
+Gender: Male
+Age Group: 18-24
+Incident Type: Cut
+Days Lost: 0
+Plant: Alabama
+Report Type: First Aid

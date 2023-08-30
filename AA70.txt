@@ -1,0 +1,8 @@
+Date: 27-Apr-20
+Injury Location: Trunk
+Gender: Female
+Age Group: 18-24
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: California
+Report Type: Near Miss

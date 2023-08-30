@@ -1,0 +1,8 @@
+Date: 18-Jun-21
+Injury Location: Eye
+Gender: Male
+Age Group: 35-49
+Incident Type: Cut
+Days Lost: 1.5
+Plant: Texas
+Report Type: Lost Time

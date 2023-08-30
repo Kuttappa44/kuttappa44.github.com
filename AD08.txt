@@ -1,0 +1,8 @@
+Date: 1-Jun-21
+Injury Location: Neck
+Gender: Male
+Age Group: 25-34
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Ohio
+Report Type: Near Miss

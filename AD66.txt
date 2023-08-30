@@ -1,0 +1,8 @@
+Date: 1-Sep-21
+Injury Location: Arms
+Gender: Male
+Age Group: 18-24
+Incident Type: Cut
+Days Lost: 0
+Plant: Ohio
+Report Type: First Aid

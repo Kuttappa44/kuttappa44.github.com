@@ -1,0 +1,8 @@
+Date: 23-Sep-20
+Injury Location: Legs
+Gender: Male
+Age Group: 18-24
+Incident Type: Fall
+Days Lost: 0
+Plant: Florida
+Report Type: First Aid

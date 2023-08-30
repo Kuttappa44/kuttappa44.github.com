@@ -1,0 +1,8 @@
+Date: 28-Jun-22
+Injury Location: Trunk
+Gender: Male
+Age Group: 50+
+Incident Type: Falling object
+Days Lost: 0
+Plant: Florida
+Report Type: Medical Claim

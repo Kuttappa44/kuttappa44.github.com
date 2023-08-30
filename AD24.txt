@@ -1,0 +1,8 @@
+Date: 18-Jun-21
+Injury Location: Back
+Gender: Male
+Age Group: 25-34
+Incident Type: Crush & Pinch
+Days Lost: 4.5
+Plant: Florida
+Report Type: Lost Time

@@ -1,0 +1,8 @@
+Date: 4-May-20
+Injury Location: Head
+Gender: Male
+Age Group: 25-34
+Incident Type: Cut
+Days Lost: 0
+Plant: Illinois
+Report Type: Medical Claim

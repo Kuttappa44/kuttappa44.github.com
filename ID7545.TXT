@@ -1,9 +1,0 @@
-ID: ID07545
-Date: 5-Aug
-Region: West
-City: San Diego
-Category: Cookies
-Product: Arrowroot
-Qty: 90
-UnitPrice: 2.18
-TotalPrice: 196.2

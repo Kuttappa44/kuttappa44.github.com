@@ -1,0 +1,8 @@
+Date: 11-Sep-20
+Injury Location: Neck
+Gender: Male
+Age Group: 18-24
+Incident Type: Fall
+Days Lost: 1.5
+Plant: Illinois
+Report Type: Lost Time

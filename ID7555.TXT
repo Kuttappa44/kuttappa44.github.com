@@ -1,9 +1,0 @@
-ID: ID07555
-Date: 4-Sep
-Region: East
-City: Boston
-Category: Snacks
-Product: Pretzels
-Qty: 26
-UnitPrice: 3.15
-TotalPrice: 81.9

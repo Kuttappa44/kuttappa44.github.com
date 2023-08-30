@@ -1,0 +1,8 @@
+Date: 24-Sep-21
+Injury Location: Abdomen
+Gender: Male
+Age Group: 50+
+Incident Type: Cut
+Days Lost: 0
+Plant: Texas
+Report Type: Medical Claim

@@ -1,0 +1,8 @@
+Date: 16-Aug-21
+Injury Location: Hands
+Gender: Male
+Age Group: 35-49
+Incident Type: Vehicle
+Days Lost: 2
+Plant: Florida
+Report Type: Lost Time

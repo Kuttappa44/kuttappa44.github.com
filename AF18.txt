@@ -1,0 +1,8 @@
+Date: 28-Jun-22
+Injury Location: Hands
+Gender: Male
+Age Group: 18-24
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Texas
+Report Type: Medical Claim

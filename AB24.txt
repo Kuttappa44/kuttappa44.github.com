@@ -1,0 +1,8 @@
+Date: 22-Jul-20
+Injury Location: Trunk
+Gender: Male
+Age Group: 18-24
+Incident Type: Lifting
+Days Lost: 0
+Plant: Alabama
+Report Type: Near Miss

@@ -1,0 +1,8 @@
+Date: 14-Feb-22
+Injury Location: Multiple
+Gender: Male
+Age Group: 35-49
+Incident Type: Lifting
+Days Lost: 0
+Plant: Texas
+Report Type: First Aid

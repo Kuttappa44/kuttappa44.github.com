@@ -1,0 +1,8 @@
+Date: 15-Jan-22
+Injury Location: Feet
+Gender: Male
+Age Group: 50+
+Incident Type: Cut
+Days Lost: 0
+Plant: Alabama
+Report Type: Medical Claim

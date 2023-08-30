@@ -1,0 +1,8 @@
+Date: 13-Aug-20
+Injury Location: Trunk
+Gender: Female
+Age Group: 35-49
+Incident Type: Cut
+Days Lost: 0
+Plant: Montana
+Report Type: Near Miss

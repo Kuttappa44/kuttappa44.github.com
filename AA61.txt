@@ -1,0 +1,8 @@
+Date: 16-Apr-20
+Injury Location: Eye
+Gender: Male
+Age Group: 50+
+Incident Type: Burn
+Days Lost: 0
+Plant: Iowa
+Report Type: First Aid

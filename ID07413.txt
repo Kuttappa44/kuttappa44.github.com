@@ -1,9 +1,0 @@
-ID: ID07413
-Date: 6-Jul
-Region: West
-City: San Diego
-Category: Crackers
-Product: Whole Wheat
-Qty: 28
-UnitPrice: 3.49
-TotalPrice: 97.72

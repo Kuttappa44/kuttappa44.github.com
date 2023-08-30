@@ -1,0 +1,8 @@
+Date: 6-Jan-21
+Injury Location: Arms
+Gender: Male
+Age Group: 35-49
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Florida
+Report Type: Medical Claim

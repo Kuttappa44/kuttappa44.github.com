@@ -1,9 +1,0 @@
-ID: ID07488
-Date: 16-Feb
-Region: West
-City: San Diego
-Category: Cookies
-Product: Oatmeal Raisin
-Qty: 29
-UnitPrice: 2.84
-TotalPrice: 82.36

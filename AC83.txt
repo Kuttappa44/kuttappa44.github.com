@@ -1,0 +1,8 @@
+Date: 17-Apr-21
+Injury Location: Legs
+Gender: Male
+Age Group: 35-49
+Incident Type: Lifting
+Days Lost: 0
+Plant: Alabama
+Report Type: Medical Claim

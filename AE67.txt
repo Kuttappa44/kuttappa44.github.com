@@ -1,0 +1,8 @@
+Date: 12-Mar-22
+Injury Location: Hands
+Gender: Male
+Age Group: 50+
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Illinois
+Report Type: Near Miss

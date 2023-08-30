@@ -1,0 +1,8 @@
+Date: 19-Sep-21
+Injury Location: Head
+Gender: Male
+Age Group: 18-24
+Incident Type: Lifting
+Days Lost: 0
+Plant: Georgia
+Report Type: Medical Claim

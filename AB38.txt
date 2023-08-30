@@ -1,0 +1,8 @@
+Date: 11-Aug-20
+Injury Location: Legs
+Gender: Male
+Age Group: 50+
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Florida
+Report Type: Near Miss

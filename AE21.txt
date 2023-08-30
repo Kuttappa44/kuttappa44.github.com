@@ -1,0 +1,8 @@
+Date: 20-Dec-21
+Injury Location: Back
+Gender: Male
+Age Group: 50+
+Incident Type: Lifting
+Days Lost: 0
+Plant: Iowa
+Report Type: Medical Claim

@@ -1,0 +1,8 @@
+Date: 26-Jul-20
+Injury Location: N/A
+Gender: Male
+Age Group: 25-34
+Incident Type: Equipment
+Days Lost: 5
+Plant: Texas
+Report Type: Lost Time

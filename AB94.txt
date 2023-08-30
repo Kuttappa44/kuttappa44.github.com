@@ -1,0 +1,8 @@
+Date: 25-Nov-20
+Injury Location: Abdomen
+Gender: Female
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 5
+Plant: Montana
+Report Type: Lost Time

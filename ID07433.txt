@@ -1,9 +1,0 @@
-ID: ID07433
-Date: 4-Sep
-Region: West
-City: San Diego
-Category: Bars
-Product: Carrot
-Qty: 45
-UnitPrice: 1.77
-TotalPrice: 79.65

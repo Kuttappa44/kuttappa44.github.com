@@ -1,0 +1,8 @@
+Date: 13-Apr-21
+Injury Location: Head
+Gender: Male
+Age Group: 50+
+Incident Type: Vehicle
+Days Lost: 4
+Plant: Georgia
+Report Type: Lost Time

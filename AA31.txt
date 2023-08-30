@@ -1,0 +1,9 @@
+Date: 17-Feb-20
+Injury Location: Multiple
+Gender: Female
+Age Group: 35-49
+Incident Type: Fall
+Days Lost: 2
+Plant: Ohio
+Report Type: Lost Time
+

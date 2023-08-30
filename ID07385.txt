@@ -1,9 +1,0 @@
-ID: ID07385
-Date: 13-Apr
-Region: West
-City: San Diego
-Category: Snacks
-Product: Potato Chips
-Qty: 28
-UnitPrice: 1.68
-TotalPrice: 47.04

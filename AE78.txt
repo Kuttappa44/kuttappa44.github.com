@@ -1,0 +1,8 @@
+Date: 3-Apr-22
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Equipment
+Days Lost: 3.5
+Plant: Montana
+Report Type: Lost Time

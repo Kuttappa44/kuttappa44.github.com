@@ -1,0 +1,8 @@
+Date: 2-Jun-21
+Injury Location: Hands
+Gender: Male
+Age Group: 25-34
+Incident Type: Fall
+Days Lost: 0
+Plant: Florida
+Report Type: Medical Claim

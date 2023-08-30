@@ -1,0 +1,8 @@
+Date: 18-Nov-20
+Injury Location: Multiple
+Gender: Male
+Age Group: 50+
+Incident Type: Vehicle
+Days Lost: 0
+Plant: California
+Report Type: Near Miss

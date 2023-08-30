@@ -1,0 +1,8 @@
+Date: 12-Feb-20
+Injury Location: Hands
+Gender: Male
+Age Group: 50+
+Incident Type: Fall
+Days Lost: 4
+Plant: Montana
+Report Type: Lost Time

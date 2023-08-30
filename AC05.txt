@@ -1,0 +1,8 @@
+Date: 8-Dec-20
+Injury Location: Eye
+Gender: Male
+Age Group: 18-24
+Incident Type: Burn
+Days Lost: 0
+Plant: Florida
+Report Type: First Aid

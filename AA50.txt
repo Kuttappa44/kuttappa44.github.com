@@ -1,0 +1,8 @@
+Date: 4-Apr-20
+Injury Location: Trunk
+Gender: Male
+Age Group: 25-34
+Incident Type: Equipment
+Days Lost: 0
+Plant: Illinois
+Report Type: First Aid

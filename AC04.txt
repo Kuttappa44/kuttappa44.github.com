@@ -1,0 +1,8 @@
+Date: 6-Dec-20
+Injury Location: Feet
+Gender: Male
+Age Group: 18-24
+Incident Type: Falling object
+Days Lost: 2.5
+Plant: California
+Report Type: Lost Time

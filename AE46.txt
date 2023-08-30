@@ -1,0 +1,8 @@
+Date: 2-Feb-22
+Injury Location: Multiple
+Gender: Male
+Age Group: 35-49
+Incident Type: Falling object
+Days Lost: 0
+Plant: Texas
+Report Type: Near Miss

@@ -1,0 +1,8 @@
+Date: 26-Oct-20
+Injury Location: Head
+Gender: Male
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 4.5
+Plant: Texas
+Report Type: Lost Time

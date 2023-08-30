@@ -1,0 +1,8 @@
+Date: 13-Oct-20
+Injury Location: N/A
+Gender: Male
+Age Group: 25-34
+Incident Type: Fall
+Days Lost: 2.5
+Plant: Ohio
+Report Type: Lost Time

@@ -1,0 +1,8 @@
+Date: 19-May-21
+Injury Location: Abdomen
+Gender: Male
+Age Group: 25-34
+Incident Type: Falling object
+Days Lost: 0
+Plant: California
+Report Type: Near Miss

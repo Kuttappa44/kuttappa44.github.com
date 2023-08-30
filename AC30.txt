@@ -1,0 +1,8 @@
+Date: 11-Jan-21
+Injury Location: Trunk
+Gender: Male
+Age Group: 25-34
+Incident Type: Fall
+Days Lost: 0
+Plant: Florida
+Report Type: Medical Claim

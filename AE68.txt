@@ -1,0 +1,8 @@
+Date: 12-Mar-22
+Injury Location: Feet
+Gender: Male
+Age Group: 18-24
+Incident Type: Equipment
+Days Lost: 4
+Plant: Alabama
+Report Type: Lost Time

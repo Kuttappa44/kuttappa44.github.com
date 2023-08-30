@@ -1,0 +1,8 @@
+Date: 28-Feb-22
+Injury Location: Head
+Gender: Male
+Age Group: 35-49
+Incident Type: Falling object
+Days Lost: 0
+Plant: Montana
+Report Type: First Aid

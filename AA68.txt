@@ -1,0 +1,8 @@
+Date: 24-Apr-20
+Injury Location: Back
+Gender: Male
+Age Group: 18-24
+Incident Type: Lifting
+Days Lost: 1
+Plant: Montana
+Report Type: Lost Time

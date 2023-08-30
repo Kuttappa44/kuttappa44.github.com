@@ -1,0 +1,8 @@
+Date: 15-Oct-21
+Injury Location: N/A
+Gender: Female
+Age Group: 50+
+Incident Type: Equipment
+Days Lost: 4
+Plant: Texas
+Report Type: Lost Time

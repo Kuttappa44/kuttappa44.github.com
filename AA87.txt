@@ -1,0 +1,8 @@
+Date: 22-May-20
+Injury Location: Trunk
+Gender: Male
+Age Group: 35-49
+Incident Type: Falling object
+Days Lost: 0
+Plant: Ohio
+Report Type: First Aid

@@ -1,0 +1,8 @@
+Date: 3-Jan-21
+Injury Location: Abdomen
+Gender: Female
+Age Group: 25-34
+Incident Type: Crush & Pinch
+Days Lost: 0
+Plant: Georgia
+Report Type: Medical Claim

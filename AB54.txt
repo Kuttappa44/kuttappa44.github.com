@@ -1,0 +1,8 @@
+Date: 6-Sep-20
+Injury Location: Arms
+Gender: Male
+Age Group: 50+
+Incident Type: Fall
+Days Lost: 0
+Plant: Alabama
+Report Type: First Aid

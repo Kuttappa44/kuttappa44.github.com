@@ -1,0 +1,8 @@
+Date: 31-Mar-21
+Injury Location: Eye
+Gender: Female
+Age Group: 18-24
+Incident Type: Vehicle
+Days Lost: 5
+Plant: Ohio
+Report Type: Lost Time

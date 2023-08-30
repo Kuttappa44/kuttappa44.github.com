@@ -1,0 +1,8 @@
+Date: 30-May-22
+Injury Location: Feet
+Gender: Male
+Age Group: 18-24
+Incident Type: Burn
+Days Lost: 1
+Plant: Illinois
+Report Type: Lost Time

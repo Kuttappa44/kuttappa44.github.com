@@ -1,0 +1,8 @@
+Date: 11-Feb-22
+Injury Location: Hands
+Gender: Male
+Age Group: 25-34
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Georgia
+Report Type: Near Miss

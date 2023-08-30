@@ -1,0 +1,8 @@
+Date: 25-Apr-20
+Injury Location: Eye
+Gender: Female
+Age Group: 50+
+Incident Type: Equipment
+Days Lost: 0
+Plant: Montana
+Report Type: Near Miss

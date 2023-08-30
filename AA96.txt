@@ -1,0 +1,8 @@
+Date: 7-Jun-20
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Equipment
+Days Lost: 0
+Plant: Georgia
+Report Type: Near Miss

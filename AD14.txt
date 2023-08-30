@@ -1,0 +1,8 @@
+Date: 7-Jun-21
+Injury Location: Eye
+Gender: Male
+Age Group: 50+
+Incident Type: Fall
+Days Lost: 0
+Plant: Illinois
+Report Type: First Aid

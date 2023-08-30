@@ -1,0 +1,8 @@
+Date: 21-Apr-20
+Injury Location: Arms
+Gender: Male
+Age Group: 18-24
+Incident Type: Cut
+Days Lost: 3
+Plant: California
+Report Type: Lost Time

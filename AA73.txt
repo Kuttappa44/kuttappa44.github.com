@@ -1,0 +1,8 @@
+Date: 5-May-20
+Injury Location: Feet
+Gender: Male
+Age Group: 50+
+Incident Type: Burn
+Days Lost: 0
+Plant: Florida
+Report Type: First Aid

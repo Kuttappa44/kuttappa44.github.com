@@ -1,0 +1,8 @@
+Date: 28-Dec-21
+Injury Location: Head
+Gender: Male
+Age Group: 35-49
+Incident Type: Equipment
+Days Lost: 0
+Plant: Alabama
+Report Type: First Aid

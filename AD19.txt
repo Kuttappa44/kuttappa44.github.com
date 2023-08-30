@@ -1,0 +1,8 @@
+Date: 13-Jun-21
+Injury Location: Trunk
+Gender: Male
+Age Group: 50+
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Texas
+Report Type: Near Miss

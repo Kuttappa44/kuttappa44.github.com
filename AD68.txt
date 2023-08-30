@@ -1,0 +1,8 @@
+Date: 3-Sep-21
+Injury Location: Multiple
+Gender: Male
+Age Group: 25-34
+Incident Type: Falling object
+Days Lost: 0
+Plant: Iowa
+Report Type: Near Miss

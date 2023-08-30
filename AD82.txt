@@ -1,0 +1,8 @@
+Date: 5-Oct-21
+Injury Location: Feet
+Gender: Male
+Age Group: 25-34
+Incident Type: Vehicle
+Days Lost: 1
+Plant: Florida
+Report Type: Lost Time

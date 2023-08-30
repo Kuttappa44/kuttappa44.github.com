@@ -1,0 +1,8 @@
+Date: 18-Feb-21
+Injury Location: Neck
+Gender: Female
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Florida
+Report Type: Near Miss

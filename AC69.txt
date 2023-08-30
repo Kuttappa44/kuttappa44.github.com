@@ -1,0 +1,8 @@
+Date: 23-Mar-21
+Injury Location: Feet
+Gender: Male
+Age Group: 50+
+Incident Type: Lifting
+Days Lost: 0
+Plant: Illinois
+Report Type: Medical Claim

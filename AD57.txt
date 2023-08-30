@@ -1,0 +1,8 @@
+Date: 19-Aug-21
+Injury Location: Head
+Gender: Female
+Age Group: 18-24
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Texas
+Report Type: Near Miss

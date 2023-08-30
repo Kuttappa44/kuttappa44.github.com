@@ -1,0 +1,8 @@
+Date: 23-Aug-21
+Injury Location: Eye
+Gender: Male
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 2.5
+Plant: Georgia
+Report Type: Lost Time

@@ -1,0 +1,8 @@
+Date: 20-May-21
+Injury Location: Trunk
+Gender: Male
+Age Group: 25-34
+Incident Type: Fall
+Days Lost: 0
+Plant: Georgia
+Report Type: First Aid

@@ -1,0 +1,8 @@
+Date: 9-Dec-20
+Injury Location: Back
+Gender: Male
+Age Group: 18-24
+Incident Type: Equipment
+Days Lost: 5
+Plant: Texas
+Report Type: Lost Time

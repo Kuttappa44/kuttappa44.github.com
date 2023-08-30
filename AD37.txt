@@ -1,0 +1,8 @@
+Date: 8-Jul-21
+Injury Location: Back
+Gender: Male
+Age Group: 25-34
+Incident Type: Fall
+Days Lost: 0
+Plant: Montana
+Report Type: Medical Claim

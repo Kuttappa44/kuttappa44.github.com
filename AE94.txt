@@ -1,0 +1,8 @@
+Date: 6-May-22
+Injury Location: Head
+Gender: Male
+Age Group: 18-24
+Incident Type: Burn
+Days Lost: 0
+Plant: Montana
+Report Type: Near Miss

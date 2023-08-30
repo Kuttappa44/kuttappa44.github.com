@@ -1,0 +1,8 @@
+Date: 13-Aug-20
+Injury Location: Hands
+Gender: Male
+Age Group: 35-49
+Incident Type: Fall
+Days Lost: 0
+Plant: Georgia
+Report Type: Medical Claim

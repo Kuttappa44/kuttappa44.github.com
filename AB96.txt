@@ -1,0 +1,8 @@
+Date: 30-Nov-20
+Injury Location: Head
+Gender: Male
+Age Group: 25-34
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Florida
+Report Type: Medical Claim

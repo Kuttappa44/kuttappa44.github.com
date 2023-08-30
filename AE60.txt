@@ -1,0 +1,8 @@
+Date: 23-Feb-22
+Injury Location: Eye
+Gender: Female
+Age Group: 50+
+Incident Type: Crush & Pinch
+Days Lost: 4
+Plant: Iowa
+Report Type: Lost Time

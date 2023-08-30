@@ -1,0 +1,8 @@
+Date: 24-Nov-21
+Injury Location: Multiple
+Gender: Male
+Age Group: 18-24
+Incident Type: Falling object
+Days Lost: 0
+Plant: Alabama
+Report Type: Medical Claim

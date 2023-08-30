@@ -1,0 +1,8 @@
+Date: 12-Nov-21
+Injury Location: Head
+Gender: Male
+Age Group: 18-24
+Incident Type: Vehicle
+Days Lost: 2.5
+Plant: Illinois
+Report Type: Lost Time

@@ -1,0 +1,8 @@
+Date: 25-Aug-20
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Montana
+Report Type: Near Miss

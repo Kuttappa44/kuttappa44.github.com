@@ -1,0 +1,8 @@
+Date: 7-Feb-22
+Injury Location: Abdomen
+Gender: Male
+Age Group: 18-24
+Incident Type: Vehicle
+Days Lost: 0
+Plant: Georgia
+Report Type: First Aid

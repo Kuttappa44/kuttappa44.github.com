@@ -1,0 +1,8 @@
+Date: 6-Mar-20
+Injury Location: Eye
+Gender: Male
+Age Group: 25-34
+Incident Type: Burn
+Days Lost: 0
+Plant: Ohio
+Report Type: Near Miss

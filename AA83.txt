@@ -1,0 +1,8 @@
+Date: 17-May-20
+Injury Location: N/A
+Gender: Male
+Age Group: 35-49
+Incident Type: Cut
+Days Lost: 0
+Plant: Ohio
+Report Type: Near Miss

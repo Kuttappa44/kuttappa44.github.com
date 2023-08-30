@@ -1,0 +1,8 @@
+Date: 12-Jun-21
+Injury Location: Back
+Gender: Male
+Age Group: 35-49
+Incident Type: Burn
+Days Lost: 4.5
+Plant: Texas
+Report Type: Lost Time

@@ -1,0 +1,8 @@
+Date: 27-Feb-20
+Injury Location: Neck
+Gender: Male
+Age Group: 50+
+Incident Type: Equipment
+Days Lost: 0
+Plant: Texas
+Report Type: Medical Claim

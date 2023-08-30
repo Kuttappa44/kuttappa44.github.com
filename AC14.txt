@@ -1,0 +1,8 @@
+Date: 23-Dec-20
+Injury Location: Multiple
+Gender: Male
+Age Group: 18-24
+Incident Type: Falling object
+Days Lost: 0
+Plant: Ohio
+Report Type: Near Miss

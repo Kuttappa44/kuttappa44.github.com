@@ -1,0 +1,8 @@
+Date: 18-Mar-21
+Injury Location: Head
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 0.5
+Plant: Montana
+Report Type: Lost Time

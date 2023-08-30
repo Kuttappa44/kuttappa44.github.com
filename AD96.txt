@@ -1,0 +1,8 @@
+Date: 30-Oct-21
+Injury Location: Head
+Gender: Male
+Age Group: 50+
+Incident Type: Cut
+Days Lost: 0
+Plant: Illinois
+Report Type: Near Miss

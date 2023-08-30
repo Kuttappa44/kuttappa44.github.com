@@ -1,0 +1,8 @@
+Date: 22-Sep-20
+Injury Location: Feet
+Gender: Male
+Age Group: 25-34
+Incident Type: Lifting
+Days Lost: 2.5
+Plant: Georgia
+Report Type: Lost Time

@@ -1,0 +1,9 @@
+Date: 3-Aug-20
+Injury Location: Multiple
+Gender: Male
+Age Group: 35-49
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Illinois
+Report Type: Medical Claim
+

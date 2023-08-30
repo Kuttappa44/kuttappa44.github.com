@@ -1,0 +1,8 @@
+Date: 27-Jan-20
+Injury Location: Back
+Gender: Male
+Age Group: 50+
+Incident Type: Cut
+Days Lost: 0
+Plant: Ohio
+Report Type: First Aid

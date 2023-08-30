@@ -1,0 +1,8 @@
+Date: 14-Apr-21
+Injury Location: Trunk
+Gender: Male
+Age Group: 50+
+Incident Type: Vehicle
+Days Lost: 2.5
+Plant: Illinois
+Report Type: Lost Time

@@ -1,0 +1,8 @@
+Date: 21-Aug-21
+Injury Location: Abdomen
+Gender: Male
+Age Group: 25-34
+Incident Type: Crush & Pinch
+Days Lost: 3.5
+Plant: Alabama
+Report Type: Lost Time

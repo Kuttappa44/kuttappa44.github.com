@@ -1,0 +1,8 @@
+Date: 30-Nov-21
+Injury Location: Multiple
+Gender: Male
+Age Group: 18-24
+Incident Type: Slip/trip
+Days Lost: 1.5
+Plant: Florida
+Report Type: Lost Time

@@ -1,0 +1,8 @@
+Date: 27-Apr-22
+Injury Location: Feet
+Gender: Male
+Age Group: 25-34
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Texas
+Report Type: Medical Claim

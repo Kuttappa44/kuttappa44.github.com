@@ -1,0 +1,8 @@
+Date: 14-Feb-20
+Injury Location: Abdomen
+Gender: Male
+Age Group: 25-34
+Incident Type: Equipment
+Days Lost: 0
+Plant: Georgia
+Report Type: Near Miss

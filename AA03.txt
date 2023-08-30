@@ -1,0 +1,8 @@
+Date: 04 Jan 2020
+Injury Location: Legs
+Gender: Female
+Age Group: 50+
+Incident Type: Falling object
+Days Lost: 0
+Plant: Iowa
+Report Type: Near Miss

@@ -1,0 +1,8 @@
+Date: 19-Oct-20
+Injury Location: Eye
+Gender: Male
+Age Group: 25-34
+Incident Type: Falling object
+Days Lost: 0
+Plant: Texas
+Report Type: Near Miss

@@ -1,0 +1,8 @@
+Date: 7-May-21
+Injury Location: Arms
+Gender: Male
+Age Group: 25-34
+Incident Type: Cut
+Days Lost: 0.5
+Plant: Georgia
+Report Type: Lost Time

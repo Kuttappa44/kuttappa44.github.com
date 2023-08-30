@@ -1,0 +1,8 @@
+Date: 13-Feb-20
+Injury Location: Legs
+Gender: Male
+Age Group: 25-34
+Incident Type: Crush & Pinch
+Days Lost: 0
+Plant: Alabama
+Report Type: Medical Claim

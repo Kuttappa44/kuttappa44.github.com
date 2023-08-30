@@ -1,0 +1,8 @@
+Date: 29-Apr-22
+Injury Location: Head
+Gender: Male
+Age Group: 50+
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Ohio
+Report Type: Near Miss

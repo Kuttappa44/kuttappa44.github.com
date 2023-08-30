@@ -1,0 +1,8 @@
+Date: 22-Nov-20
+Injury Location: Abdomen
+Gender: Female
+Age Group: 25-34
+Incident Type: Falling object
+Days Lost: 5
+Plant: California
+Report Type: Lost Time

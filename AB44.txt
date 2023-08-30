@@ -1,0 +1,8 @@
+Date: 21-Aug-20
+Injury Location: Arms
+Gender: Male
+Age Group: 35-49
+Incident Type: Falling object
+Days Lost: 5
+Plant: Montana
+Report Type: Lost Time

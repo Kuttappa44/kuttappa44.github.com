@@ -1,0 +1,8 @@
+Date: 16-Nov-20
+Injury Location: Neck
+Gender: Male
+Age Group: 50+
+Incident Type: Slip/trip
+Days Lost: 0
+Plant: Texas
+Report Type: Near Miss
