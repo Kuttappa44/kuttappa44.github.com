@@ -1,0 +1,6 @@
+Shift: Night
+Department: Purchasing
+Incident Cost: $238
+Weekday: Tue
+Month: 9
+Year: 2021

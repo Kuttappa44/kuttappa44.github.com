@@ -1,0 +1,6 @@
+hift: Day
+Department: Painting
+Incident Cost: $4,260
+Weekday: Sun
+Month: 6
+Year: 2021

@@ -1,0 +1,6 @@
+Shift: Day
+Department: Finishing
+Incident Cost: $1,433
+Weekday: Mon
+Month: 9
+Year: 2021

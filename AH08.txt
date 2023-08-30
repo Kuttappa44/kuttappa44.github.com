@@ -1,0 +1,6 @@
+Shift: Day
+Department: Maintenance
+Incident Cost: $0
+Weekday: Wed
+Month: 11
+Year: 2020

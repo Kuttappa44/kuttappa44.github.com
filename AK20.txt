@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Melting
+Incident Cost: 0
+Weekday: Saturday
+Month: 5
+Year: 2022

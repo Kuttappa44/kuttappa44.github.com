@@ -1,0 +1,6 @@
+Shift: Night
+Department: Security
+Incident Cost: 2381
+Weekday: Wednesday
+Month: 2
+Year: 2022

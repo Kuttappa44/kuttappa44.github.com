@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Melting
+Incident Cost: 4947
+Weekday: Friday
+Month: 1
+Year: 2022

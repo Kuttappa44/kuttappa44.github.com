@@ -1,0 +1,6 @@
+Shift: Night
+Department: Security
+Incident Cost: $1,694
+Weekday: Fri
+Month: 6
+Year: 2021

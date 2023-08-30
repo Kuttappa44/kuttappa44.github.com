@@ -1,0 +1,6 @@
+Shift: Day
+Department: Administration
+Incident Cost: $3,851
+Weekday: Mon
+Month: 5
+Year: 2020

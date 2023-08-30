@@ -1,0 +1,6 @@
+Shift: Day
+Department: Finishing
+Incident Cost: 0
+Weekday: Friday
+Month: 1
+Year: 2022

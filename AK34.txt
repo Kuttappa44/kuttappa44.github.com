@@ -1,0 +1,6 @@
+Shift: Day
+Department: Purchasing
+Incident Cost: 0
+Weekday: Sunday
+Month: 6
+Year: 2022

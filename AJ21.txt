@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Painting
+Incident Cost: $920
+Weekday: Sun
+Month: 11
+Year: 2021

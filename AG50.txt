@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Administration
+Incident Cost: $0
+Weekday: Sat
+Month: 8
+Year: 2020

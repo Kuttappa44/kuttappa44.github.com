@@ -1,0 +1,6 @@
+Shift: Night
+Department: Shipping
+Incident Cost: $1,585
+Weekday: Sat
+Month: 11
+Year: 2021

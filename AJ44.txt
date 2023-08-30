@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Maintenance
+Incident Cost: $3,582
+Weekday: Sun
+Month: 1
+Year: 2022

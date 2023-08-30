@@ -1,0 +1,6 @@
+hift: Afternoon
+Department: Fabrication
+Incident Cost: $2,937
+Weekday: Sat
+Month: 8
+Year: 2021

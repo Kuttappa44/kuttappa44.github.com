@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Purchasing
+Incident Cost: $1277
+Weekday: Fri
+Month: 1
+Year: 2022

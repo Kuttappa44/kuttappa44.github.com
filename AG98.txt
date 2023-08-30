@@ -1,0 +1,6 @@
+Shift: Night
+Department: Maintenance
+Incident Cost: $1,935
+Weekday: Mon
+Month: 10
+Year: 2020

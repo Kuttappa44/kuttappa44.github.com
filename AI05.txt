@@ -1,0 +1,6 @@
+Shift: Day
+Department: Administration
+Incident Cost: $1,084
+Weekday: Fri
+Month: 5
+Year: 2021

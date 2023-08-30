@@ -1,0 +1,6 @@
+Shift: Day
+Department: Fabrication
+Incident Cost: $1,690
+Weekday: Wed
+Month: 1
+Year: 2021

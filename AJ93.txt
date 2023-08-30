@@ -1,0 +1,6 @@
+Shift: Day
+Department: Maintenance
+Incident Cost: 2336
+Weekday: Tuesday
+Month: 3
+Year: 2022

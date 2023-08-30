@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Melting
+Incident Cost: $442
+Weekday: Sun
+Month: 5
+Year: 2021

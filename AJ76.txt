@@ -1,0 +1,6 @@
+Shift: Night
+Department: Finishing
+Incident Cost: 540
+Weekday: Wednesday
+Month: 2
+Year: 2022

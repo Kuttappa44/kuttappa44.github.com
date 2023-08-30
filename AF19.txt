@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Painting
+Incident Cost: $0
+Weekday: Wed
+Month: 1
+Year: 2020

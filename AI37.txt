@@ -1,0 +1,6 @@
+Shift: Night
+Department: Maintenance
+Incident Cost: $522
+Weekday: Sat
+Month: 6
+Year: 2021

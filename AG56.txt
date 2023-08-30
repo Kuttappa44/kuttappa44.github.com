@@ -1,0 +1,6 @@
+Shift: Day
+Department: Melting
+Incident Cost: $0
+Weekday: Mon
+Month: 8
+Year: 2020

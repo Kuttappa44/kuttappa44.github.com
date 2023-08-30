@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Purchasing
+Incident Cost: $2,468
+Weekday: Mon
+Month: 5
+Year: 2020

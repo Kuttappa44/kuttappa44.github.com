@@ -1,0 +1,6 @@
+Shift: Day
+Department: Purchasing
+Incident Cost: 2184
+Weekday: Saturday
+Month: 6
+Year: 2022

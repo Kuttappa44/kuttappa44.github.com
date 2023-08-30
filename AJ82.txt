@@ -1,0 +1,6 @@
+Shift: Night
+Department: Painting
+Incident Cost: 3824
+Weekday: Tuesday
+Month: 2
+Year: 2022

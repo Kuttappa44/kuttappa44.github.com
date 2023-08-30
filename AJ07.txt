@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Security
+Incident Cost: $0
+Weekday: Sun
+Month: 10
+Year: 2021

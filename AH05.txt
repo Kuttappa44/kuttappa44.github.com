@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Finishing
+Incident Cost: $0
+Weekday: Thu
+Month: 11
+Year: 2020

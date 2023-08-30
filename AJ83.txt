@@ -1,0 +1,6 @@
+Shift: Night
+Department: Shipping
+Incident Cost: 3419
+Weekday: Tuesday
+Month: 2
+Year: 2022

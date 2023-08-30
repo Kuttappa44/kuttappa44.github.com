@@ -1,0 +1,6 @@
+Shift: Day
+Department: Maintenance
+Incident Cost: $4,373
+Weekday: Wed
+Month: 3
+Year: 2021

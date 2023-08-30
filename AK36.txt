@@ -1,0 +1,6 @@
+Shift: Day
+Department: Administration
+Incident Cost: 2356
+Weekday: Friday
+Month: 6
+Year: 2022

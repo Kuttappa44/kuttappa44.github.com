@@ -1,0 +1,6 @@
+Shift: Night
+Department: Administration
+Incident Cost: 0
+Weekday: Thursday
+Month: 2
+Year: 2022

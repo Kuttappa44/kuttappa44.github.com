@@ -1,0 +1,6 @@
+Shift: Day
+Department: Shipping
+Incident Cost: $2,569
+Weekday: Wed
+Month: 11
+Year: 2020

@@ -1,0 +1,7 @@
+
+Shift: Day
+Department: Shipping
+Incident Cost: 1919
+Weekday: Sunday
+Month: 1
+Year: 2022

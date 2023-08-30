@@ -1,0 +1,6 @@
+Shift: Day
+Department: Painting
+Incident Cost: $2,521
+Weekday: Mon
+Month: 8
+Year: 2020

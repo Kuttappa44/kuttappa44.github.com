@@ -1,0 +1,6 @@
+Shift: Night
+Department: Melting
+Incident Cost: $0
+Weekday: Sun
+Month: 8
+Year: 2021

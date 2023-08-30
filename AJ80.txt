@@ -1,0 +1,6 @@
+Shift: Night
+Department: Fabrication
+Incident Cost: 330
+Weekday: Monday
+Month: 2
+Year: 2022

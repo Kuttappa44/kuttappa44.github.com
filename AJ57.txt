@@ -1,0 +1,6 @@
+Shift: Night
+Department: Administration
+Incident Cost: $385
+Weekday: Thu
+Month: 1
+Year: 2022

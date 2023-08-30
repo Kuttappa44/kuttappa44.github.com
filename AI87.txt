@@ -1,0 +1,6 @@
+Shift: Day
+Department: Maintenance
+Incident Cost: $0
+Weekday: Fri
+Month: 9
+Year: 2021

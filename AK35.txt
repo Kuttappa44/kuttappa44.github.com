@@ -1,0 +1,6 @@
+Shift: Day
+Department: Shipping
+Incident Cost: 0
+Weekday: Tuesday
+Month: 6
+Year: 2022

@@ -1,0 +1,6 @@
+Shift: Night
+Department: Administration
+Incident Cost: $88
+Weekday: Sun
+Month: 7
+Year: 2021

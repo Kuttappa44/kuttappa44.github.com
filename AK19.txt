@@ -1,0 +1,6 @@
+Shift: Day
+Department: Fabrication
+Incident Cost: 0
+Weekday: Friday
+Month: 5
+Year: 2022

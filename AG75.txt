@@ -1,0 +1,6 @@
+Shift: Night
+Department: Security
+Incident Cost: $1,230
+Weekday: Fri
+Month: 9
+Year: 2020

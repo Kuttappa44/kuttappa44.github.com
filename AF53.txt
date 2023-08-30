@@ -1,0 +1,6 @@
+Shift: Afternoon
+Department: Fabrication
+Incident Cost: $4,800
+Weekday: Sat
+Month: 2
+Year: 2020

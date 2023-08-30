@@ -1,0 +1,6 @@
+Shift: Night
+Department: Finishing
+Incident Cost: $709
+Weekday: Tue
+Month: 9
+Year: 2020

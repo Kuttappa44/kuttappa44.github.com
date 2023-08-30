@@ -1,0 +1,6 @@
+Shift: Night
+Department: Finishing
+Incident Cost: $0
+Weekday: Wed
+Month: 12
+Year: 2021

@@ -1,0 +1,6 @@
+Shift: Night
+Department: Shipping
+Incident Cost: $0
+Weekday: Fri
+Month: 3
+Year: 2020

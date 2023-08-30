@@ -1,0 +1,6 @@
+Shift: Day
+Department: Shipping
+Incident Cost: 4150
+Weekday: Saturday
+Month: 3
+Year: 2022
